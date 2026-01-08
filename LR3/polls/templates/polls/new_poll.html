@@ -1,0 +1,10 @@
+<form action="{% url 'polls:new_poll' %}" method="post">
+    {% csrf_token %}
+    <fieldset>
+        <legend><h1>Создать новый опрос</h1></legend>
+        
+        {{ form.as_p }}
+        
+        <input type="submit" value="Создать опрос">
+    </fieldset>
+</form>
