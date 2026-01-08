@@ -1,4 +1,4 @@
-## Настройка OAuth 2.0 авторизации в Django приложении
+## Практика OAuth 2.0 в Python
 
 
 <img width="1209" height="712" alt="image" src="https://github.com/user-attachments/assets/70546a34-fd59-4796-aa8d-37c03fc86a05" />
